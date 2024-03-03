@@ -1,0 +1,66 @@
+Five Nights at Freyler´s: Versions
+
+alpha 0.0.1: Base for main menu.
+alpha 0.0.2: Animations and effects on main menu.
+alpha 0.0.3: 12 AM screen added.
+alpha 0.1.0: Office added
+alpha 0.1.1: Base for cameras.
+alpha 0.1.2: Animations and effects for the camera system.
+alpha 0.2.0: Base for the math-problem sheet.
+alpha 0.2.1: Animation for the math-problem sheet.
+alpha 0.2.2: Small optimization of camera and math-sheet animations.
+alpha 0.2.3: Small adjustions to buttons and other UI-elements.
+alpha 0.3.0: Base for the window-system.
+alpha 0.3.1: Animations for window system.
+alpha 0.3.2: Fixed major animation performance issues.
+alpha 0.4.0: Added door mechanics.
+alpha 0.4.1: Polishing of door mechanic.
+alpha 0.5.0: Clock-System added
+alpha 0.5.1: Optimized loading screen.
+alpha 0.5.2: Game win scene added.
+alpha 0.5.3: Night counter added.
+alpha 0.5.4: Nights will now be saved between sessions.
+alpha 0.5.5: Fixed issues with Nights not Loading properly + Added limit for playable nights to 5.
+alpha 0.6.0: Added Prototype for math problem UI.
+alpha 0.6.1: Randomized creation of math problems
+alpha 0.6.2: Changed difficulty of math problem depending on the night + added answer streak.
+alpha 0.6.3: Fixed issues with problem solutions not being rounded correctly.
+alpha 0.6.4: Fixed issiues with falsely generated problem answers matching up with the correct number.
+alpha 0.6.5: Added public variables for windows, cameras, streak and door.
+alpha 0.6.6: Optimized problem sheet calculation so that the solution does not equal zero.
+
+beta 0.7.0: First Floor Cameras Added + Major UI improvements.
+beta 0.7.1: Added a "Current Night" Inducator under the "Continue" button on the main menu.
+beta 0.7.2: Fixed an issue with the game generating a night 6.
+beta 0.7.3: Streak System greatly Modified.
+beta 0.7.4: Added a base for "Freyler".
+beta 0.7.5: Main Components of "Freyler" coded.
+beta 0.8.0: Freyler coded completely (Missing New Sprites for Cams)
+beta 0.8.1: Patched numerous bugs with "Freyler´s" movement.
+beta 0.8.2: Added sounds for "Freyler" leaving.
+beta 0.8.3: Fixed issues with "Freyler" leaving sounds not playing.
+beta 0.8.4: Improved Randomness of "Freyler´s" movement with a random timer between each movement.
+beta 0.9.0: Added a base code for "Uro".
+beta 0.9.1: Added feature for camerastatic covering "Freyler´s" movement as to not look like teleportation.
+beta 0.9.2: Improved movement coverup so the static also covers the position that freyler teleports to.
+beta 0.9.3: Fixed an issue with the Night being set to 0 when first booted up on a new system.
+beta 0.9.4: Finished first Prototype of the "Uro" scripts.
+beta 0.9.5: Finished "Uro".
+beta 0.9.6: Replaced Placeholder images with final versions.
+beta 0.9.7: Added Game-Over-Screen after Jumpscares.
+beta 0.10.0: Added base code for "Kato".
+beta 0.10.1: Added a feature so that "Kato" moves back when being looked at.
+beta 0.10.2: Fixed an issue with "Kato" not moving at all due to previously implimented features.
+	    	 Fixed an issue with "Kato" appearing at all Windows at once.
+	       Fixed an issue with "Kato" being active even though he shouldn´t.
+beta 0.10.3: Improved Game over screen.
+beta 0.11.0: Various sounds added.
+beta 0.11.1: Patched multiple game-breaking bugs
+beta 0.11.2: Updated the resolution on animations.
+beta 0.12.0: Added killstreaks.
+beta 0.12.2: Improved killstreak system.
+beta 0.13.0: Added ending.
+beta 0.13.1: Added "Christoph" Easter Egg.
+beta 0.13.2: Fixed multiple saving issues and patched Game crashes.
+
+release 1.0.0: Game ready for launch.
